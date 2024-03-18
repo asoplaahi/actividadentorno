@@ -1,5 +1,5 @@
 public Medico(String nombre, String especialidad) {
-    this.nombre = nombre;
+    this.medico = nombre;
     this.especialidad = especialidad;
 }
 
